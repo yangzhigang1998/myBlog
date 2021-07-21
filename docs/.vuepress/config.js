@@ -1,5 +1,5 @@
 module.exports = {
-	base: '/myBlog/', //设置站点根路径
+	base: '/', //设置站点根路径
 	lang: 'zh-CN',
 	title: '杨志刚',
 	description: '使用vuepress搭建个人博客',
